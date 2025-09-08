@@ -36,11 +36,9 @@ export default function Home() {
 					
 					<div className="text-lg text-gray-300 leading-relaxed">
 						Soy un desarrollador full stack con experiencia en la creación de aplicaciones web modernas y escalables. Me especializo en tecnologías como React, Next.js, Node.js y bases de datos SQL y NoSQL. Me apasiona transformar ideas en productos digitales funcionales y atractivos.git add
-
 					</div>
 				</div>
 			</section>
-
 			{/* Projects Grid */}
 			<section className="py-20">
 				<div className="container mx-auto px-4">
